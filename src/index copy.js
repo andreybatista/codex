@@ -9,7 +9,7 @@ import Header from "./components/Header.jsx";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./styles/motion.css";
-import "./styles/global.css";
+import "./styles/Global.css";
 
 
 const root = ReactDOM.createRoot(
